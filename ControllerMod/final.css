@@ -29,7 +29,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(triggermod.png));
+    background: url(triggermod.png);
     opacity: 0;
 }
 
@@ -46,7 +46,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(bumpermod.png));
+    background: url(bumpermod.png);
     opacity: 0;
 }
 
@@ -185,7 +185,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(stickmod.png));
+    background: url(stickmod.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
